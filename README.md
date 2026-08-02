@@ -7,8 +7,8 @@ pip install numpy pandas matplotlib pyscipopt
 
 Die Methode run_all_experiments_from_masters_thesis() führt alle 56 Experimente, die in der Masterarbeit beschrieben sind, nacheinander aus. Mit run_specific_experiment(<Experiment_Nummer>) kann ein spezifisches Experiment ausgeführt werden. 
 
-Im Code wurde vor der entsprechenden Methode durch einen Kommentar
+Im Code wurde vor der entsprechenden Methode durch einen Quellcode-Kommentar
 
-# Diese Methode wurde mit Unterstützung von generativer KI entwickelt
+'Diese Methode wurde mit Unterstützung von generativer KI entwickelt'
 
 markiert, falls diese Methode mit Unterstützung generativer KI (ChatGPT von OpenAI) entstanden ist.
